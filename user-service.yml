@@ -1,0 +1,3 @@
+eureka:
+  url: localhost
+  port: 8716
