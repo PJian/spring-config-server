@@ -1,3 +1,3 @@
 eureka:
-  url: localhost
+  url: 192.168.33.10
   port: 8716
