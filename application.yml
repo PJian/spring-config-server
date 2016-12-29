@@ -1,5 +1,5 @@
 eureka:
-  url: localhost
+  url: 192.168.33.11
   port: 8716
 user-service:
   id: user-service
