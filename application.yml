@@ -4,3 +4,5 @@ eureka:
 user-service:
   id: user-service
   path: /myusers/**
+api-gateway:
+  ip: 192.168.33.12
