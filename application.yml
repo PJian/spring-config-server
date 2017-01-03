@@ -6,6 +6,3 @@ user-service:
   path: /myusers/**
 api-gateway:
   ip: 192.168.33.12
-configuration-service:
-  ip: 192.168.33.12
-  port: 8083
