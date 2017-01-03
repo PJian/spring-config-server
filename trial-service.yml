@@ -4,4 +4,4 @@ SERVER_PORTAL_URL: http://hongxiy1.asiapacific.hpqcorp.net:9090
 SERVER_SAW_URL: http://sheyu4.asiapacific.hpqcorp.net:8080
 TRIAL_TENANT_URL: http://sheyu4.asiapacific.hpqcorp.net:8000
 mongodb: 
-  uri: mongodb://192.168.56.1:27017/trial
+  uri: mongodb://192.168.33.12:27017/trial
