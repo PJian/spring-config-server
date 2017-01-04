@@ -1,4 +1,3 @@
-SENDGRID_API_KEY: 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
 SERVER_AUTH_URL: http://spmaasshtest13.hpeswlab.net:8080/auth-webapp/rest/ums/user
 SERVER_PORTAL_URL: http://hongxiy1.asiapacific.hpqcorp.net:9090
 SERVER_SAW_URL: http://sheyu4.asiapacific.hpqcorp.net:8080
